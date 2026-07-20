@@ -21,8 +21,4 @@ Turn Claude into a Hormozi-style business coach — the 6M framework, the Value 
 
 ## Download
 
-- **Just grab the folder:** on GitHub, click any file → download, or use [download-directory](https://download-directory.github.io/) with this folder's URL.
-- **Or clone the whole repo:**
-  ```bash
-  git clone https://github.com/noe-varner/noeai-free-resources.git
-  ```
+**[⬇️ Click here to download the files](https://github.com/noe-varner/noeai-free-resources/archive/refs/heads/main.zip)** — a zip downloads, open it, then open the `hormozi-business-coach` folder.

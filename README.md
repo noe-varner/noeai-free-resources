@@ -14,12 +14,9 @@ Everything here is free. Open a folder, read the files before you grab anything 
 
 ## How to download
 
-- **One folder:** paste its URL into [download-directory.github.io](https://download-directory.github.io/) to grab it as a zip.
-- **Everything:** clone the repo —
-  ```bash
-  git clone https://github.com/noe-varner/noeai-free-resources.git
-  ```
-- **Skills** (when added): install straight into Claude Code with `npx skills add noe-varner/noeai-free-resources` — no manual download.
+**[⬇️ Click here to download everything](https://github.com/noe-varner/noeai-free-resources/archive/refs/heads/main.zip)** — a zip downloads, open it, and each resource is its own folder.
+
+Skills can also install straight into Claude Code — no download — with `npx skills add noe-varner/noeai-free-resources`.
 
 ---
 

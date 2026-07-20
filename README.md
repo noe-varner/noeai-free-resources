@@ -14,9 +14,9 @@ Everything here is free. Open a folder, read the files before you grab anything 
 
 ## How to download
 
-**[⬇️ Click here to download everything](https://github.com/noe-varner/noeai-free-resources/archive/refs/heads/main.zip)** — a zip downloads, open it, and each resource is its own folder.
+On a computer, click the green **Code** button near the top of this page, then **Download ZIP**. Open the zip — each resource is its own folder.
 
-Skills can also install straight into Claude Code — no download — with `npx skills add noe-varner/noeai-free-resources`.
+Skills can also install straight into Claude Code with `npx skills add noe-varner/noeai-free-resources` (no download needed).
 
 ---
 

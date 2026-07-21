@@ -9,6 +9,7 @@ Everything here is free. Open a folder, read the files before you grab anything 
 | Folder | What it is |
 |--------|------------|
 | [`hormozi-business-coach/`](hormozi-business-coach/) | Turn Claude into Alex Hormozi — the prompt + his books distilled into a knowledge pack |
+| [`spy-on-competitor-meta-ads/`](spy-on-competitor-meta-ads/) | A Claude skill that pulls every ad your competitors run on Meta into your own Airtable — copy, landing pages, and how long each has been live |
 
 *More resources are added here as they go live in the vault.*
 
